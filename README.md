@@ -9,7 +9,6 @@ A code-first system design repository. Each subdirectory is a standalone impleme
 - **Consistent structure**: Each system includes architecture notes, API docs, deployment (e.g. Docker), and capacity/load metrics where applicable.
 
 ## Systems
-
 | System | Description | Stack |
 |--------|-------------|--------|
 | [url-shortener](./url-shortener) | Shorten URLs, redirect by short code, cache for read-heavy traffic | Go, PostgreSQL, Redis, Docker |
